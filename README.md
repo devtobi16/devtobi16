@@ -1,17 +1,9 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Oluwatobiloba Sokoya</h1>
 <h3 align="center">𝕀'𝕞 𝕒 𝕙𝕒𝕟𝕕𝕤-𝕠𝕟 𝕝𝕖𝕒𝕣𝕟𝕖𝕣 𝕨𝕚𝕥𝕙 𝕒 𝕕𝕖𝕖𝕡 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 𝕗𝕠𝕣 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕒𝕟𝕕 𝕚𝕟𝕟𝕠𝕧𝕒𝕥𝕚𝕠𝕟. 𝕀 𝕥𝕙𝕣𝕚𝕧𝕖 𝕠𝕟 𝕔𝕙𝕒𝕝𝕝𝕖𝕟𝕘𝕖𝕤, 𝕔𝕠𝕟𝕤𝕥𝕒𝕟𝕥𝕝𝕪 𝕤𝕖𝕖𝕜𝕚𝕟𝕘 𝕟𝕖𝕨 𝕨𝕒𝕪𝕤 𝕥𝕠 𝕖𝕩𝕡𝕒𝕟𝕕 𝕞𝕪 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 𝕒𝕟𝕕 𝕔𝕣𝕖𝕒𝕥𝕖 𝕚𝕞𝕡𝕒𝕔𝕥𝕗𝕦𝕝 𝕤𝕠𝕝𝕦𝕥𝕚𝕠𝕟𝕤. 🚀</h3>
 
-- devtobi16/devtobi16 **devtobi16/devtobi16**
-
-- devtobi16/devtobi16 **devtobi16/devtobi16**
-
-- devtobi16/devtobi16 **devtobi16/devtobi16**
-
-- devtobi16/devtobi16 **devtobi16/devtobi16**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oluwatobiloba-sokoya-473424341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oluwatobiloba-sokoya-473424341/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
